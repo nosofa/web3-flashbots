@@ -10,7 +10,7 @@ setup(
     long_description=readme,
     author='Georgios Konstantopoulos',
     author_email='me@gakonst.com',
-    url='https://github.com/gakonst/web3-flashbots',
+    url='https://github.com/nosofa/web3-flashbots',
     license="MIT",
     packages=find_packages(exclude=('tests', 'docs'))
 )
